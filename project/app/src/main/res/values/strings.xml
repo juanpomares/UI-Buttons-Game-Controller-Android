@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">UI Controllers</string>
+    <string name="button_pressed">Button Pressed</string>
+    <string name="button_up">UP</string>
+    <string name="button_down">DOWN</string>
+    <string name="button_right">RIGHT</string>
+    <string name="button_left">LEFT</string>
+    <string name="button_center">CENTER</string>
+    <string name="button_none">NONE</string>
 </resources>

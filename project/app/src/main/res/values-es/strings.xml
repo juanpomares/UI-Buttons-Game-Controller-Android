@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UI Controllers</string>
+    <string name="button_pressed">Botón pulsado</string>
+    <string name="button_up">ARRIBA</string>
+    <string name="button_down">ABAJO</string>
+    <string name="button_right">DERECHA</string>
+    <string name="button_left">IZQUIERDA</string>
+    <string name="button_none">NINGUNO</string>
+    <string name="button_center">CENTRO</string>
+</resources>
